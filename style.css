@@ -8,6 +8,9 @@
   --font-family: "San Francisco";
   --font-family-header: "San Francisco";
 }
+body {
+  background-color: #87509c;
+}
 table,
 th,
 td {
